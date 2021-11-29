@@ -8,6 +8,8 @@ Modifying the implementation of Pac-Man provided in [this Github](https://github
 
 ![Example Image](https://github.com/trippzac/Vax-Man/blob/main/Python_Vax-Man/DemoImage0.png)
 
+![Example Image 2](https://github.com/trippzac/Vax-Man/blob/main/Python_Vax-Man/DemoImage1.png)
+
 ## C++ Implementation
 
 The C++ Implementation is a modified version of the [implementation of Pac-Man by Patricia Terol](https://github.com/patriciateroltolsa/Pacman/blob/master/assign10.cpp). The implementation uses [freeglut](http://freeglut.sourceforge.net/).
